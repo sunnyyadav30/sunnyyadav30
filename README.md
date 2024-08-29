@@ -1,4 +1,4 @@
-# Hello 👋` Welcome to My GitHub Profile! 👋
+# Hello 👋` Welcome to My GitHub Profile!
 
 ---
 
@@ -46,7 +46,7 @@ Hello! I'm Sunny Yadav, a Frontend Engineer with a strong background in developi
 
 Here, you'll find a mix of projects that showcase:
 - 🌐 **Web Projects:** Custom MUI components, blog posts, and more.
-- 🧑‍💻 **Algorithms & Data Structures:** My DSA journey documented in Go and JavaScript.
+- 🧑‍💻 [**Algorithms & Data Structures:**](https://github.com/sunnyyadav30/data-structures-and-algorithms) My DSA journey documented in Go and JavaScript.
 
 ---
 
