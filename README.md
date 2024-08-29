@@ -1,6 +1,4 @@
-# Hello 👋, I'm Sunny Yadav!
-
-Welcome to my GitHub! I'm a Software Engineer who loves building innovative solutions. Below is an overview of what I do and what you can explore here.
+# Hello 👋` Welcome to My GitHub Profile! 👋
 
 ---
 
@@ -32,13 +30,8 @@ Here, you'll find a mix of projects that showcase:
 
 ---
 
-## 📫 How to reach me
+## 📫 Let's connect
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sunnyyadav3004/)
-- Medium: [Your Medium](https://medium.com/@sunnyyadav30/)
-- LeetCode: [Your LeetCode](https://leetcode.com/u/sunnyyv30/)
 
----
-
-Looking forward to connecting 🚀
 
